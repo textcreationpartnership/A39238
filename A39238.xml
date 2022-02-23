@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Queen Elizabeth's opinion concerning transubstantiation, or the real presence of Christ in the Blessed sacrament; with some prayers and thanksgivings composed by her in imminent dangers</title>
+            <author>Elizabeth I, Queen of England, 1533-1603.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39238</idno>
+            <idno type="STC">Wing E532</idno>
+            <idno type="STC">ESTC R215516</idno>
+            <idno type="EEBO-CITATION">99827370</idno>
+            <idno type="PROQUEST">99827370</idno>
+            <idno type="VID">31788</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39238)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31788)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1864:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Queen Elizabeth's opinion concerning transubstantiation, or the real presence of Christ in the Blessed sacrament; with some prayers and thanksgivings composed by her in imminent dangers</title>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for F.E.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text, before imprint: Licensed, Aug. 27th, 1688.</note>
+                  <note>Reproduction of the originals in the Christ Church Library, Oxford (Early English books) and the British Library (Misc. Brit. tracts).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Transubstantiation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:31788:1" rendition="simple:additions"/>
+            <head>
+               <hi>QUEEN <figure>
+                     <figDesc>depiction of Queen Elizabeth I</figDesc>
+                  </figure> ELIZABETH's</hi> Opinion concerning <hi>TRANSUBSTANTIATION,</hi> Or the Real Preſence of <hi>Chriſt</hi> in the Bleſſed <hi>Sacrament;</hi> with ſome Prayers and Thankſgivings compoſed by Her in Imminent Dangers.</head>
+            <p>DURING the Reign of <hi>Q. Mary,</hi> the La<g ref="char:EOLhyphen"/>dy <hi>Elizabeth</hi> being a Priſoner at <hi>Wood<g ref="char:EOLhyphen"/>ſtock,</hi> a Popiſh Prieſt came to viſit her, and after ſome Diſcourſe, preſt hard upon her to declare her Opinion of the Real Preſence of Chriſt in the Sacrament, to whom ſhe truly and warily anſwered in theſe following verſes:
+<q>
+                  <l>'Twas God the Word that ſpake it,</l>
+                  <l>He took the Bread and brake it:</l>
+                  <l>And what that Word did make it,</l>
+                  <l>That I believe and take it.</l>
+               </q>
+            </p>
+            <p>The ſenſe of which is more fully explained in the fol<g ref="char:EOLhyphen"/>lowing POEM.</p>
+            <div type="poem">
+               <head>A <hi>MEDITATION</hi> how to diſcern the Lords Body in the Bleſſed Sacrament.</head>
+               <l>AND if Mens Fingers cannot make the Wheat,</l>
+               <l>Which makes the Sacramental Bread we eat;</l>
+               <l>What Art of Tranſubſtantiation can.</l>
+               <l>Make God of Wafere, who of Duſt made Man?</l>
+               <l>When we are by th' Apoſtle truly told,</l>
+               <l>The God-head is not like Silver or Gold;</l>
+               <l>Or any thing Corruptions Power can waſte,</l>
+               <l>For He to all Eternity muſt laſt:</l>
+               <l>And if the Art of Man can make his Maker,</l>
+               <l>The Smith may do as well as do's the Baker;</l>
+               <l>Bread was the ſubſtance which our Saviour gave,</l>
+               <l>And Bread it was the Apoſtles did receive;</l>
+               <l>His Real Body was but in the Sign,</l>
+               <l>He gave his Fleſh, and Blood in Bread and Wine:</l>
+               <l>For if his Body he did then divide,</l>
+               <l>He muſt have eat himſelf before he dy'd.</l>
+               <l>His humane Body which for us was given,</l>
+               <l>Is given to us of Bread which came from Heaven;</l>
+               <l>The which if we unworthily Receive,</l>
+               <l>We eat our Judgments, and our ſelves deceive.</l>
+               <l>In not diſcerning what his Body is,</l>
+               <l>Our Souls are rob'd of everlaſting Bliſs.</l>
+               <l>We muſt believe the Words of him, who ſaid,</l>
+               <l>
+                  <hi>This is my Body,</hi> when he gave the Bread:</l>
+               <lg>
+                  <l>And ſure that Blood which curdl'd in each Vein,</l>
+                  <l>Did in His Sacred Body ſtill remain,</l>
+                  <l>Till he was Crucify'd and Slain.</l>
+               </lg>
+               <l>However, there's great Influence therein,</l>
+               <l>Which expiates and cleanſeth us from Sin:</l>
+               <l>We are made One with him in Holy Union,</l>
+               <l>When we in Faith receive the Bleſt Communion.</l>
+               <l>In Commemoration of his bitter Paſſion,</l>
+               <l>Who ſhed his Blood to purchaſe our Salvation;</l>
+               <l>We on his Merits muſt depend alone,</l>
+               <l>Sufficient 'tis that Merit we have none:</l>
+               <l>Nor can there any other Name be given</l>
+               <l>To ſave us, but by him who ſits in Heaven.</l>
+               <l>His Body here on Earth need not appear,</l>
+               <l>When Angels to the Women ſay, <hi>He is not here;</hi>
+               </l>
+               <l>He's not i'th' <hi>Preſs</hi> or <hi>Cup-board,</hi> as ſome ſay;</l>
+               <l>For then the Mice might carry him away.</l>
+               <l>The Primitive Chriſtians never were ſo blind,</l>
+               <l>To think he could be blown away with wind.</l>
+               <l>Or that ſome Thieves or Robbers might devour,</l>
+               <l>Him who created Heaven by his Power.</l>
+               <l>We are not ſav'd by Senſe, but by our Faith,</l>
+               <l>And ought to credit what our Maſter ſaith.</l>
+               <l>He call'd himſelf a <hi>Vine,</hi> and yet we ſee,</l>
+               <l>He was a perfect Man, and not a <hi>Tree.</hi>
+               </l>
+               <l>He call'd himſelf a <hi>Door;</hi> 'tis underſtood,</l>
+               <l>We enter Heaven through Him, and not thro <hi>Wood.</hi>
+               </l>
+               <l>He call'd himſelf a <hi>Way,</hi> the which doth lead</l>
+               <l>Our Steps to Heaven, yet none doth on him <hi>tread.</hi>
+               </l>
+               <l>His bleſſed Words were oft-times Myſtical,</l>
+               <l>And are not rightly underſtood by all:</l>
+               <l>Save ſuch on whom he doth that Gift beſtow,</l>
+               <l>Who to the Ignorant the Truth may ſhew.</l>
+               <l>His Bleſſed Body Heaven muſt contain,</l>
+               <l>Where He a King eternally doth Reign:</l>
+               <l>Until the Reſtitution of all,</l>
+               <l>Then we with him and Angels ever ſhall,</l>
+               <l>Sing Allelujahs in their Hierarchie;</l>
+               <l>
+                  <hi>For where He is, there muſt his Servants be.</hi>
+               </l>
+            </div>
+            <div type="part">
+               <head>A <hi>PRAYER</hi> of Queen <hi>Elizabeth</hi> upon her eſcape from being burnt in her Bed, by a Fire flaming through the Boards of her Chamber, during her Impriſonment at <hi>Woodſtock</hi> in <hi>Oxfordſhire.</hi>
+               </head>
+               <p>
+                  <q>O Gracious Lord God, I humbly proſtrate my ſelf upon the bended Knees of my Heart before thee, intreating thee for thy Sons ſake, to be now and ever merciful unto me: I am thy work, the work of thine own Hands; even of thoſe Hands which were nailed to the Croſs for my Sins. Look upon the Wounds of thy Hands, and deſpiſe not the work of thy hands. Thou haſt written me down in thy Book of Preſervation; read thine own hand-writing and ſave me: Spare me that ſpeak unto thee, pardon me that pray unto thee. The Griefs I endure enforce me to ſpeak, the Calamities I ſuffer compel me to complain: If my hopes were in this life only, then were I of all People moſt miſera<g ref="char:EOLhyphen"/>ble. It muſt needs be that there is another life; for here thoſe live many times longeſt, who are not worthy to live at all. Here the <hi>Iſraelites</hi> make Bricks, and the <hi>Egyptians</hi> dwell in the Houſes: <hi>David</hi> is in want, and <hi>Nabal</hi> a<g ref="char:EOLhyphen"/>bounds: <hi>Sion</hi> is <hi>Babylons</hi> Captive. Haſt thou nothing in ſtore for <hi>Joſeph</hi> but the ſtocks, for <hi>Eſay</hi> but a Saw? Will not <hi>Elias</hi> adorn the Chariot as well as the Juniper Tree? Will not <hi>John Baptiſts</hi> Head become a Crown as well as a Platter? Surely there is great Retribution for the Juſt, there is Fruit for the Righteous: Thou haſt Palms for their Hands, white Robes for their Bodies. Thou wilt wipe a<g ref="char:EOLhyphen"/>way all Tears from their Eyes, and ſhew thy goodneſs in the Land of the Living. How good and deſirable is the ſhadow of thy wings? Oh Lord Jeſus! That is a ſafe San<g ref="char:EOLhyphen"/>ctuary to flie unto, a comfortable refreſhing from all ſin and ſorrow: Whatſoever Cup of Affliction this Life makes me drink of, it is yet nothing to thoſe bitter Draughts that thou haſt already drank for me: Help me, Oh thou my ſtrength, and thereby I ſhall be raiſed up: Come thou my Light, and thereby I ſhall be illuminated; appear thou Glory to which I ſhall be exalted: Haſten thou Life by which I ſhall be hereafter glorified. <hi>Amen, Amen.</hi>
+                  </q>
+               </p>
+               <p>When <hi>Q. Mary</hi> was dead, and the News thereof came to <hi>Q. Elizabeth,</hi> ſhe removed from <hi>Hatfeild</hi> to the <hi>Char<g ref="char:EOLhyphen"/>ter-houſe,</hi> from whence ſhe was Royally Attended to the Tower of <hi>London,</hi> and <hi>Nov.</hi> 24. 1558. She ſet forward from the Tower to paſs through the City to <hi>Weſtminſter.</hi> But the Queen conſidering that ſhe was now exalted from Miſery to Majeſty, from a Priſoner to a Princeſs: She ve<g ref="char:EOLhyphen"/>ry devoutly and religiouſly lifted up her Hands to Heaven before ſhe would ſuffer her ſelf to be mounted in her Cha<g ref="char:EOLhyphen"/>riot, and made the following Prayer.<lb/>
+                  <q>O Lord, Almighty and ever living God, I give thee moſt humble and hearty thanks that thou haſt been ſo merciful unto me as to ſpare me to ſee this joyful and bleſſed day; and I acknowledge thou haſt dealt as graci<g ref="char:EOLhyphen"/>ouſly and wonderfully with me, as thou didſt with thy true and faithful Servant <hi>Daniel</hi> thy Prophet, whom thou deli<g ref="char:EOLhyphen"/>veredſt out of the Lions Den, from the cruelty of the greedy and raging Lions; even ſo was I overwhelmed, and by thee delivered: To thee therefore only be Thanks, and Honour, and Praiſe, for evermore. <hi>Amen.</hi>
+                  </q>
+               </p>
+               <p>In 1588, The <hi>Spaniſh Armado</hi> invaded the Kingdom; the Deſign being no leſs than the Conqueſt of <hi>England;</hi> at which time <hi>Q. Elizabeth</hi> having raiſed a conſiderable Ar<g ref="char:EOLhyphen"/>my of Horſe and Foot, who were encamped at <hi>Tilbury,</hi> near the <hi>Thames</hi> mouth; the Queen with a Maſculine Spirit, like another <hi>Deborah,</hi> came and took a view of her Army; and going about through the ſeveral Ranks of Armed Men, drawn up on both ſides of her, with a Generals Truncheon in her hand, walkt ſometimes with a Martial pace, another while gently like a Woman: It is incredible how much ſhe encouraged the Hearts of her Captains and Souldiers by her preſence, but eſpecially by her moſt generous and un<g ref="char:EOLhyphen"/>daunted Speech, which ſhe made in the midſt of them, to this effect:</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="speech">
+                           <opener>
+                              <salute>MY Loving People,</salute>
+                           </opener>
+                           <p>we have been perſuaded by ſome that are careful of our ſafety, to take heed how we commit our ſelves to armed Multitudes, for fear of Treache<g ref="char:EOLhyphen"/>ry; but I aſſure you, I do not deſire to live to diſtruſt my faithful and loving People; let Tyrants fear, I have always ſo behaved my ſelf, that under God I have always placed my chiefeſt ſtrength and ſafeguard in the loyal Hearts and good Will of my Subjects; and therefore I am come amongſt you, as you ſee at this time, not for my Recreation and Diſ<g ref="char:EOLhyphen"/>port, but being reſolved in the midſt and heat of the Battle, to live or die amongſt you all; to lay down for my God, and for my Kingdom, and for my People, my Honour, and my Blood, even in the duſt: I know I have the Body but of a weak and feeble Woman, yet I have the Heart and Courage of a King, and of a King of <hi>England</hi> too; and think foul ſcorn that <hi>Parma,</hi> or <hi>Spain,</hi> or any Prince of <hi>Europe,</hi> ſhould dare to invade the Borders of my Realm; to which, rather than any diſhonour ſhall grow by me, I my ſelf will take up Arms, I my ſelf will be your General, Judge, and Rewarder of every one of your Vertues in the Field: I know that already for your forwardneſs you have deſerved Re<g ref="char:EOLhyphen"/>wards and Crowns, and we do aſſure you in the word of a Prince, they ſhall be duly paid you: In the mean time my Lieutenant General <hi>Leiceſter</hi> ſhall be in my ſtead; than whom, never Prince commanded a more noble or worthy Subject; not doubting, but by your Obedience to your Ge<g ref="char:EOLhyphen"/>neral, by your Concord in the Camp, and your Valour in the Field, we ſhall ſhortly obtain a famous Victory over thoſe Enemies of my God, of my Kingdom, and of my People.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>The Queen provided alſo as good a Fleet as poſſible, con<g ref="char:EOLhyphen"/>ſiſting of 140 Ships, divided into 3 Squadrons, commanded by the <hi>L. Howard</hi> Admiral, Sir <hi>Fr. Drake</hi> Vice Admiral, and the <hi>L. Hen. Seamour</hi> Rear Admiral; which being ready to ſail, this Religious Princeſs compoſed this Prayer for their good Succeſs.<lb/>
+                  <q>MOſt Omnipotent Creator and Governor of all the World, that only ſearcheſt and knoweſt the bottom of all hearts and thoughts, and therein ſeeſt the true inten<g ref="char:EOLhyphen"/>tion of all our Actions: Thou knoweſt, O God, that it is nei<g ref="char:EOLhyphen"/>ther malice, nor revenge for any injury offered us, neither deſire of bloodſhed, nor greedineſs of gain, that hath been the occaſion of raiſing and ſetting forth this Navy, but on<g ref="char:EOLhyphen"/>ly that neceſſary care and wary watchfulneſs, that neither the malice of our Enemies, nor our own over-ſecurity may bring danger to us, or triumph to them: Theſe being the true grounds and reaſons of our attempt, as thou, O Lord, knoweſt, I humbly beſeech thee with bended Knees to proſ<g ref="char:EOLhyphen"/>per the undertaking; command the Winds to aſſiſt us, and grant us Victory and Deliverance from this imminent dan<g ref="char:EOLhyphen"/>ger; that ſo all may end in the advancement of thy Glory and Honour, the exalting of thy Name, and the ſafety of this Realm, with the leaſt loſs of the <hi>Engliſh</hi> Blood that may be: To theſe my devout Petitions, Lord give thy bleſſed Aſſent. <hi>Amen.</hi>
+                  </q>
+               </p>
+               <p>After the Defeat of the <hi>Spaniſh</hi> Invincible <hi>Armado,</hi> as they called it, the gracious and godly Queen, who ever held Ingratitude a capital ſin, eſpecially toward her Almighty Protector, as ſhe had begun with Prayer, ſo ſhe concluded with Praiſes, and Thankſgivings; commanding a ſolemn Thankſgiving to be celebrated to the Lord of Hoſts; and compoſed her ſelf a Prayer of Thankfulneſs to this effect:<lb/>
+                  <q>MOſt Omnipotent Creator, Redeemer and Preſerver of all Mankind; when it ſeemed good to thy Almigh<g ref="char:EOLhyphen"/>ty Wiſdom to create the whole Earth; thou didſt divide in<g ref="char:EOLhyphen"/>to four ſeveral parts the materials thereof, which are ſince called Elements; and do all ſerve to continue that orderly Government which thou haſt deſigned them: And all theſe, O God, out of thy moſt ſingular bounty, and unheard of care, thou haſt made to ſerve as Inſtruments to daunt and deſtroy our Foes, and to confound their malice; for which, with bowed Heart, and bended Knees, I humbly return hearty thanks and acknowledgment; and it is not the leaſt part of this great deliverance that the weakeſt Sex hath been ſo aſſiſted by thy ſtrongeſt help; that my own People have no cauſe to complain of my weakneſs, nor Foreigners to triumph at my ruin: Yea, ſuch hath been thy unwonted Grace in my days, that though Satan and his Inſtruments have been continually practiſing againſt my Life and State, yet thy mighty Hand hath defended us, and thy Wings have covered us, that they have not prevailed againſt us, neither have we received any damage by them; but have cauſe to bleſs and magnifie thy Holy Name, that thou haſt cloathed our Enemies with ſhame, and the greateſt diſho<g ref="char:EOLhyphen"/>nour: for which great goodneſs of thine, O Lord, grant that we may be continually thankful, and ever mindful: And if I may find favour in thine Eyes, be pleaſed, O God, to grant thy countenance and favour to us in my days, that my years may never ſee any change of thy love and grace toward me, but eſpecially to this Kingdom: which grant, O Lord, for thy Sons ſake, may flouriſh for Many Ages, after I ſhall go hence and be no more: Grant this, O Lord, in the Name of Jeſus. <hi>Amen.</hi>
+                  </q>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licenſed,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Aug.</hi> 27th, 1688.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>F. E.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
